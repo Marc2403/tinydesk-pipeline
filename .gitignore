@@ -1,0 +1,19 @@
+# Python-Standard
+__pycache__/
+*.py[cod]
+*.log
+
+# Virtuelle Umgebungen
+.venv/
+.venv311/
+venv/
+
+# IDE / Editor
+.vscode/
+.idea/
+
+# Audio-Output
+*.wav
+*.mp3
+songs/
+
