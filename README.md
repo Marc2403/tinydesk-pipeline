@@ -40,20 +40,20 @@ The system pulls high-quality audio from YouTube, detects individual songs
 tinydesk-pipeline/
 │
 ├── songs/
-│ └── {ConcertTitle}/
-│ ├── Artist - Song 1.mp3
-│ ├── Artist - Song 2.mp3
-│ └── ...
+│     └── {ConcertTitle}/
+│           ├── Artist - Song 01.mp3
+│           ├── Artist - Song 02.mp3
+│           ├── Artist - Song 03.mp3
+│           └── ...
 │
 ├── run_tinydesk.py
 ├── tinydesk_config.py
 ├── tinydesk_split.py
 ├── tinydesk_rename.py
 ├── yt_download.py
-└── requirements.txt
+├── requirements.txt
+└── README.md
 
-
----
 
 ## Installation
 
