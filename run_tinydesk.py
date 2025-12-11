@@ -9,7 +9,7 @@ from tinydesk_rename import rename_songs_with_setlist, get_setlist_from_youtube
 
 # Hier trägst du deine Tiny-Desk-Links ein
 YOUTUBE_LINKS = [
-    "https://youtu.be/cXYgdCXkLMc?si=U6NpZDCMRO7dvMcy"
+    "https://youtu.be/59eBs8iiLU0?si=5QCbU-7J9n_A2tuy"
 ]
 
 
